@@ -1,0 +1,6 @@
+[package]
+name = "si-senortn/switch"
+description = "switch statement implemented in lua"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
